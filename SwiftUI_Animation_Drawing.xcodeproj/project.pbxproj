@@ -11,6 +11,7 @@
 		E24F3B6625D7CB3000997F64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24F3B6525D7CB3000997F64 /* ContentView.swift */; };
 		E24F3B6825D7CB3300997F64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E24F3B6725D7CB3300997F64 /* Assets.xcassets */; };
 		E24F3B6B25D7CB3300997F64 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E24F3B6A25D7CB3300997F64 /* Preview Assets.xcassets */; };
+		E24F3B9D25D913EB00997F64 /* SomeCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24F3B9C25D913EB00997F64 /* SomeCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E24F3B6725D7CB3300997F64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E24F3B6A25D7CB3300997F64 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E24F3B6C25D7CB3300997F64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E24F3B9C25D913EB00997F64 /* SomeCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				E24F3B6325D7CB3000997F64 /* SwiftUI_Animation_DrawingApp.swift */,
+				E24F3B9C25D913EB00997F64 /* SomeCode.swift */,
 				E24F3B6525D7CB3000997F64 /* ContentView.swift */,
 				E24F3B6725D7CB3300997F64 /* Assets.xcassets */,
 				E24F3B6C25D7CB3300997F64 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E24F3B9D25D913EB00997F64 /* SomeCode.swift in Sources */,
 				E24F3B6625D7CB3000997F64 /* ContentView.swift in Sources */,
 				E24F3B6425D7CB3000997F64 /* SwiftUI_Animation_DrawingApp.swift in Sources */,
 			);
